@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BurningSkull_0: -5066407505235698118
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

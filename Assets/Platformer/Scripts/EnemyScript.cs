@@ -12,7 +12,7 @@ public class EnemyScript : MonoBehaviour
     public Collider2D Nose; //My 'did I walk into a wall' collider
     
     //My personal stats
-    public float Speed = 2;
+    public float Speed = 3;
     public float Gravity = 3;
     
     //Variables I use to track my state

@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
 using Random = UnityEngine.Random;
 
+
 public class PlayerScript : MonoBehaviour
 {
     //I like to make variables for all my components even
